@@ -2,8 +2,8 @@
 <h2> Hi there, I'm Bartolome </h2>
 
 
-[![Linkedin: Bartolome](https://img.shields.io/badge/-edgargagocarillo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edgargagocarrillo/)](https://www.linkedin.com/in/bartolom%C3%A9-canitrot-2975891b9/)
-[![GitHub Xylospeed](https://img.shields.io/github/followers/gagocarrilloedgar?label=follow&style=social)](https://github.com/Xylospeed)
+[![Linkedin: Bartolome](https://img.shields.io/badge/-edgargagocarillo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bartolomé-canitrot/)](https://www.linkedin.com/in/bartolom%C3%A9-canitrot-2975891b9/)
+[![GitHub Xylospeed](https://img.shields.io/github/followers/Xylospeed?label=follow&style=social)](https://github.com/Xylospeed)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
