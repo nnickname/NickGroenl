@@ -10,7 +10,7 @@
 
 ```javascript
 const Xylospeed = {
-  code: [Javascript, HTML, CSS, MySQL, C++, Pawn],
+  code: [jQuery, Javascript, HTML, CSS, MySQL, C++, PHP, Pawn],
   tools: [React, Laravel],
   ID: [VSCode, Sublime Text, Visual Studio],
   design: [SketchUp],
