@@ -1,12 +1,8 @@
 ### Hi there 👋
-<h2> Hi there, I'm Edgar Gago </h2>
+<h2> Hi there, I'm Bartolome </h2>
 
 <img align='right' src="./Assets/profile.png" width="230">
 
-<p><em>Aerospace engineer <a href="https://upc.edu">Polytechnic University of Barcelona</a>
-</br>MBA<a href="https://quantic.edu/">Quantic School of Business and Technology</a>
-</br>Fullstack developer at<a href="https://nuwe.io">Nuwe</a>
-</em></p>
 
 
 [![Linkedin: edgargagocarrillo](https://img.shields.io/badge/-edgargagocarillo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edgargagocarrillo/)](https://www.linkedin.com/in/edgargagocarrillo/)
