@@ -16,7 +16,7 @@ const Xylospeed = {
   design: ['SketchUp'],
   architecture: ['microservices', 'event-driven', 'design system pattern'],
   methodologies: ['SCRAM'],
-  tools: ['Github', 'Gitlab', 'Trello', 'Notion']
+  tools: ['Github', 'Gitlab', 'Trello', 'Notion'],
   extra: ['Amazon Services(Offers deliveried)', 'MercadoLibre for devs'],
   
   challenge: "Learning Rust"
