@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h2> Hi there, I'm Bartolome </h2>
+<h2> Hi there, I'm Nick </h2>
 
 
 [![Linkedin: Bartolome](https://img.shields.io/badge/-bartolome-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bartolomé-canitrot-2975891b9/)](https://www.linkedin.com/in/bartolomé-canitrot-2975891b9/)
