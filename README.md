@@ -3,20 +3,23 @@
 
 
 [![Linkedin: Bartolome](https://img.shields.io/badge/-bartolome-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bartolomé-canitrot-2975891b9/)](https://www.linkedin.com/in/bartolomé-canitrot-2975891b9/)
-[![GitHub Xylospeed](https://img.shields.io/github/followers/Xylospeed?label=follow&style=social)](https://github.com/Xylospeed)
+[![GitHub Nickname](https://img.shields.io/github/followers/NickGroenl?label=follow&style=social)](https://github.com/NickGroenl)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const Xylospeed = {
-  code: [jQuery, Javascript, HTML, CSS, MySQL, C++, PHP, Pawn],
-  tools: [React, Laravel],
-  ID: [VSCode, Sublime Text, Visual Studio],
-  design: [SketchUp],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  frontend: ['React', 'Angular', 'React Native'],
+  backend: ['Node', 'Laravel', 'Java not much'],
+  ID: ['Visual Studio Code', 'Sublime Text', 'Visual Studio', 'Expo', 'Android Studio'],
+  design: ['SketchUp'],
+  architecture: ['microservices', 'event-driven', 'design system pattern'],
+  methodologies: ['SCRAM'],
+  tools: ['Github', 'Gitlab', 'Trello', 'Notion']
+  extra: ['Amazon Services(Offers deliveried)', 'MercadoLibre for devs'],
   
- challenge: "I am about to start the #100DaysOfCode challenge focusing on React and JS"
+  challenge: "Learning Rust"
 }
 ```
 
