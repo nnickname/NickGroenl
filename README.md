@@ -1,4 +1,3 @@
-### Hi there 👋
 <h2> Hi there, I'm Nick </h2>
 
 
