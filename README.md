@@ -9,7 +9,7 @@
 ```javascript
 const Xylospeed = {
   frontend: ['React', 'Angular', 'React Native'],
-  backend: ['Node', 'Laravel', 'Java not much'],
+  backend: ['Node', 'Laravel', 'Java, not much'],
   ID: ['Visual Studio Code', 'Sublime Text', 'Visual Studio', 'Expo', 'Android Studio'],
   design: ['SketchUp'],
   architecture: ['microservices', 'event-driven', 'design system pattern'],
