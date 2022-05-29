@@ -7,15 +7,14 @@
 
 
 ```javascript
-const Xylospeed = {
-  frontend: ['React', 'Angular', 'React Native'],
-  backend: ['Node', 'Laravel', 'Java, not much'],
+const Me = {
+  frontend: ['React', 'Next', 'Angular', 'React Native'],
+  backend: ['Node', 'Laravel'],
+  full: ['Typescript', 'Redux', 'Hook', 'Stripe']
   ID: ['Visual Studio Code', 'Sublime Text', 'Visual Studio', 'Expo', 'Android Studio'],
-  design: ['SketchUp'],
-  architecture: ['microservices', 'event-driven', 'design system pattern'],
-  methodologies: ['SCRAM'],
+  design: ['SketchUp', 'Chakra UI', 'Ant Design', 'Bootstrap', 'MaterialDesign'],
   tools: ['Github', 'Gitlab', 'Trello', 'Notion'],
-  extra: ['Amazon Services(Offers deliveried)', 'MercadoLibre for devs'],
+  extra: ['Amazon Web Services', 'MercadoLibre for devs'],
   
   challenge: "Learning Rust"
 }
