@@ -8,11 +8,13 @@
 
 <div id="header" align="center">
   <img src="https://cdn.dribbble.com/users/966681/screenshots/2811861/dribbble14_still_2x.gif?compress=1&resize=400x300" width="100"/>
+
+
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?NickGroenl&theme=dark&background=000000)](https://git.io/streak-stats)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?NickGroenl)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NickGroenl&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?NickGroenl&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?NickGroenl)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
